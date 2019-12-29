@@ -5,3 +5,6 @@ Se descarga la cotización de GGAL en $ y en USD para calcular el tipo de cambio
 
 Se propone una descarga de datos desde el 1/1/19 y una actualización a partir del archivo descargado, en los 2 scripts publicados, usando la libreria yfinance(https://pypi.org/project/yfinance/) como base para la descarga desde Yahoo! Finance.
 
+A continuación una copia del gráfico generado:
+
+![Imagen 2019 Tipo de Cambio](2019_Oficial_vs_CCL.png)
